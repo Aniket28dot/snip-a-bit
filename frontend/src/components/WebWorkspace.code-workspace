@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\WebDev Udemy"
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebDev Udemy"
+	}
+}
