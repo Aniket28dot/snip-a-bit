@@ -1,4 +1,4 @@
-# snip-a-bit
+# Snipabit
 
 
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/72705413/188281955-d5f0d3de-0cd4-4ce7-9f1c-56c55bb86d29.png">
